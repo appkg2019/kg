@@ -1,0 +1,4 @@
+{
+"server": "https://server.009899.cn/api",
+"client": "https://client.009899.cn"
+}
