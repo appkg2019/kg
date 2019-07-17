@@ -1,4 +1,4 @@
 {
-"server": "https://server.qianpintao.com/api",
-"client": "https://client.qianpintao.com"
+"server": "https://server.009899.cn/api",
+"client": "https://client.009899.cn"
 }
