@@ -1,4 +1,4 @@
 {
-"server": "https://server.009899.cn/api",
-"client": "https://client.009899.cn"
+"server": "http://g.juziyouxi.cn/api",
+"client": "http://client.juziyouxi.cn"
 }
